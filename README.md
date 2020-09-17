@@ -23,4 +23,4 @@ Una vez ejecutados todos los pasos anteriores, se debe abrir el navegador y acce
 
 * **[Gabriel Pereyra](https://github.com/GabiAle97)** - *Back-End / Front-End*
 * **[Nelson Sepúlveda](https://github.com/GabiAle97)** - *Back-End / Front-End*
-* **[Daniel Gómez](https://github.com/GabiAle97)** - *Front-End*
+* **[Daniel Gómez](https://github.com/GabiAle97)** - *Back-End / Front-End*
